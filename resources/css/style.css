@@ -2,6 +2,7 @@ body {
     background-color: black;
 text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
 /* HEADINGS */
 
 .header--main {
@@ -16,8 +17,8 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;}
     color: #ffffff;
 }
 .header--sub-header {
-
-    
+font-size: 21px;
+color: grey;
 }
 
 /* LINKS */
